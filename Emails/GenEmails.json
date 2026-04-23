@@ -1,0 +1,603 @@
+[
+  {
+    "id": "Chat01",
+    "subject": "Action needed: unusual sign-in detected",
+    "body": "We detected a sign-in to your <Org> account from a new location and blocked access pending verification. Review the sign-in details and confirm whether this was you. If not, security will recommend a credential reset. Open the verification portal here: [Link].",
+    "tag": "PHISHING"
+  },
+  {
+    "id": "Chat02",
+    "subject": "Policy update: device enrollment deadline",
+    "body": "To maintain compliance, all laptops must be enrolled in the new endpoint management profile by Friday. Non‑enrolled devices may lose network access until registered. Enroll your device via the company portal: [Link].",
+    "tag": "PHISHING"
+  },
+  {
+    "id": "Chat03",
+    "subject": "Package delivery attempt missed",
+    "body": "A parcel addressed to you could not be delivered due to an incomplete address. Re‑schedule delivery and confirm your office location using the internal courier form: [Link]. Do not provide passwords on web forms.",
+    "tag": "PHISHING"
+  },
+    {
+    "id": "Chat04",
+    "subject": "HR: confirm benefits election",
+    "body": "Open enrollment verification is required to finalize your benefits. Review your elections and confirm no changes are needed. Access your summary at the benefits portal here: [Link].",
+    "tag": "PHISHING"
+  },
+  {
+    "id": "Chat05",
+    "subject": "Finance notice: invoice auto‑approval paused",
+    "body": "An invoice routed to your cost center exceeded the auto‑approval threshold and requires review. Inspect the invoice details and approve or return it: [Link]. For wire requests, always verify by phone using the directory.",
+    "tag": "PHISHING"
+  },
+  {
+    "id": "Chat06",
+    "subject": "Your account session will expire",
+    "body": "To keep your access uninterrupted, confirm your session renewal and validate your recovery options. Proceed to the access page: [Link]. Never share MFA codes in email. This is",
+    "tag": "PHISHING"
+  },
+    {
+    "id": "Chat07",
+    "subject": "Calendar: unexpected meeting invitation",
+    "body": "You were added to “Q4 priorities sync.” Review the agenda and confirm attendance. If you do not recognize the organizer, verify via chat before opening attachments: [Link].",
+    "tag": "PHISHING"
+  },
+  {
+    "id": "Chat08",
+    "subject": "Storage quota reached",
+    "body": "Your cloud storage has reached its quota. Archive or request additional space to avoid sync failures. Manage storage here: [Link]. Do not enter passwords into non‑company pages.",
+    "tag": "PHISHING"
+  },
+  {
+    "id": "Chat09",
+    "subject": "Payroll: direct deposit validation",
+    "body": "A routine verification is pending for your direct deposit details. Review the record and acknowledge accuracy. For changes, always call HR using the directory before approving:",
+    "tag": "PHISHING"
+  },
+    {
+    "id": "Chat10",
+    "subject": "Software license confirmation",
+    "body": "Your assigned license for the new collaboration suite requires acknowledgment to remain active. Confirm your seat and device association: [Link]. Report any suspicious sender",
+    "tag": "PHISHING"
+  },
+  {
+    "id": "Chat11",
+    "subject": "New supplier onboarding request",
+    "body": "<VendorName> requests onboarding to supply ergonomic desk accessories. Review product specs, warranty, and security documents, then proceed if aligned with standards: [Link]. Always verify new vendors through procurement. ",
+    "tag": "PHISHING"
+  },
+  {
+    "id": "Chat12",
+    "subject": " Trial offer: secure document e‑sign tool",
+    "body": "A 30‑day pilot is available for a compliant e‑signature platform supporting SSO and audit trails. See the features matrix and data residency notes: [Link]. Confirm via procurement",
+    "tag": "PHISHING"
+  },
+    {
+    "id": "Chat13",
+    "subject": "Request for quote: meeting room kits",
+    "body": "A vendor submitted pricing for conference room AV kits with warranty and support SLAs. Review the quote breakdown and environmental specs: [Link]. Validate vendors in the approved list first.",
+    "tag": "PHISHING"
+  },
+  {
+    "id": "Chat14",
+    "subject": "Cyber insurance questionnaire support",
+    "body": "A broker offers help completing control questionnaires (MFA, backups, EDR). Review scope and conflict‑of‑interest statement here: [Link]. Confirm engagement through legal/procurement.",
+    "tag": "PHISHING"
+  },
+  {
+    "id": "Chat15",
+    "subject": "Managed shredding service proposal",
+    "body": "A secure shredding vendor proposes scheduled pickups with chain‑of‑custody logs. Review compliance attestations and pricing tiers: [Link]. Onboard only via procurement workflows.",
+    "tag": "PHISHING"
+  },
+    {
+    "id": "Chat16",
+    "subject": "Wellness challenge raffle result",
+    "body": "Thanks for joining the wellness steps challenge. A random drawing selected internal winners for a branded water bottle and gym voucher. Claim instructions and policy note here: [Link].",
+    "tag": "PHISHING"
+  },
+  {
+    "id": "Chat17",
+    "subject": "Learning milestone badge reward",
+    "body": "Completing three training modules qualifies you for a recognition badge and coffee voucher. Review details and confirm mailing address: [Link].",
+    "tag": "PHISHING"
+  },
+  {
+    "id": "Chat18",
+    "subject": "Safety week giveaway",
+    "body": "Participate in Safety Week knowledge checks to enter a drawing for noise‑canceling headphones. See terms and disclosure here: [Link]. Simulation: check sender domain carefully",
+    "tag": "PHISHING"
+  },
+    {
+    "id": "Chat19",
+    "subject": "Sustainability month perk",
+    "body": "Submit commuting alternatives to earn points redeemable for transit credits. View the rewards page: [Link].",
+    "tag": "PHISHING"
+  },
+  {
+    "id": "Chat20",
+    "subject": " Hackathon recognition",
+    "body": "Project submissions qualify for swag and lunch vouchers. Confirm T‑shirt size and delivery preference here: [Link]. Simulation: verify certificates on web pages.",
+    "tag": "PHISHING"
+  },
+  {
+    "id": "Chat21",
+    "subject": "verify unusual sign-in",
+    "body": "Review the example “unusual sign-in” notice and practice identifying red flags before clicking any link. Training portal: [Link]. Do not enter real credentials; this is a simulation.",
+    "tag": "PHISHING"
+  },
+  {
+    "id": "Chat22",
+    "subject": "delivery reschedule request",
+    "body": " review this courier notice asking you to reschedule a missed delivery using this [Link].",
+    "tag": "PHISHING"
+  },
+  {
+    "id": "Chat23",
+    "subject": "storage quota alert example",
+    "body": "URGENT, You are running out of storage, click here [Link} to get more storage",
+    "tag": "PHISHING"
+  },
+  {
+    "id": "Chat24",
+    "subject": "benefits confirmation",
+    "body": "Find attached a link to your beneifts [Link}",
+    "tag": "PHISHING"
+  },
+  {
+    "id": "Chat25",
+    "subject": "Vendor onboarding check",
+    "body": "New vendor ALERT. [Link] Press on this to confirm new vendor.",
+    "tag": "PHISHING"
+  },
+  {
+  "id": "Grok01",
+  "subject": "URGENT: Your Netflix Account Has Been Locked Due to Unusual Activity",
+  "body": "Dear valued Netflix customer,\n\nWe have detected multiple failed login attempts from an unknown location in Eastern Europe on your account registered in Bristol, England. To protect your personal information and billing details, we have temporarily locked your account. Please verify your identity immediately to regain access and prevent permanent suspension. This will only take 30 seconds.\n\n[Link]\n\nIf you did not attempt these logins, contact our security team urgently.\n\nThank you,\nNetflix Security Team\nThis is an automated message, please do not reply.",
+  "tag": "PHISHING"
+  },
+  {
+  "id": "Grok02",
+  "subject": "Microsoft Account Locked - Immediate Action Required",
+  "body": "Hello,\n\nYour Microsoft account associated with this email has been locked after detecting suspicious activity from an IP address outside the UK. Someone may be trying to access your Outlook, OneDrive, and Office 365 files. Click below to verify ownership and unlock your account before data is permanently restricted.\n\n[Link]\n\nAct within 24 hours to avoid account deletion.\n\nMicrosoft Account Team",
+  "tag": "PHISHING"
+  },
+  {
+  "id": "Grok03",
+  "subject": "Adobe Creative Cloud Account Suspended - Verify Now",
+  "body": "Important Notice:\n\nYour Adobe ID has been temporarily suspended due to repeated incorrect password attempts from Russia. This affects Photoshop, Lightroom, and all Creative Cloud apps. To restore full access and prevent billing issues, please confirm your identity through our secure portal.\n\n[Link]\n\nFailure to verify within 48 hours may result in permanent loss of files stored in Adobe Cloud.\n\nAdobe Security",
+  "tag": "PHISHING"
+  },
+  {
+  "id": "Grok04",
+  "subject": "Steam Account Locked - Unusual Login Detected",
+  "body": "Hey gamer,\n\nValve security systems blocked your Steam account after detecting a login attempt from Romania at 2:15 AM GMT. Your library with 250+ games is currently inaccessible. Re-secure your account and enable Steam Guard by clicking here before someone drains your inventory.\n\n[Link]\n\nDon't lose your CS2 skins and rare items!\n\nSteam Support",
+  "tag": "PHISHING"
+  },
+  {
+  "id": "Grok05",
+  "subject": "Office 365 Account Locked - Security Alert",
+  "body": "Security Alert:\n\nYour Office 365 account has been locked following multiple unauthorized access attempts. This impacts Word, Excel, Teams, and SharePoint. Immediate verification is required to restore access and protect sensitive company documents stored in OneDrive.\n\n[Link]\n\nComplete verification in under one minute.\n\nMicrosoft 365 Security Center",
+  "tag": "PHISHING"
+  },
+  {
+  "id": "Grok06",
+  "subject": "PlayStation Network Account Suspended",
+  "body": "PSN User,\n\nYour PlayStation Network account has been temporarily suspended due to suspicious activity originating from outside the UK. All purchases and trophies are currently frozen. Verify your account ownership immediately to avoid permanent ban and loss of digital library worth hundreds of pounds.\n\n[Link]\n\nSony Interactive Entertainment",
+  "tag": "PHISHING"
+  },
+  {
+  "id": "Grok07",
+  "subject": "Disney+ Account Locked - Verify Identity",
+  "body": "Dear Disney+ subscriber,\n\nWe've locked your account after detecting login attempts from an unrecognized device in Asia. Your access to Marvel, Star Wars, and all profiles has been restricted. Click below to confirm you're still in Bristol and restore unlimited streaming immediately.\n\n[Link]\n\nAct now before your subscription is canceled.\n\nDisney+ Team",
+  "tag": "PHISHING"
+  },
+  {
+  "id": "Grok08",
+  "subject": "EA Account Security Lock - FIFA/FC 25 At Risk",
+  "body": "EA Player,\n\nYour Origin/EA account has been locked due to suspicious activity. Someone may be trying to transfer your Ultimate Team coins and players. Secure your account and all linked games (FC 25, Apex Legends, Battlefield) by verifying immediately.\n\n[Link]\n\nDon't lose your 500k coin squad!\n\nEA Security",
+  "tag": "PHISHING"
+  },
+  {
+  "id": "Grok09",
+  "subject": "Amazon Prime Video Account Locked",
+  "body": "Prime member,\n\nYour Amazon Prime Video account was automatically locked after multiple failed login attempts from an unknown location. This also affects your Prime shopping benefits. Please verify your identity to restore full access to streaming and next-day delivery.\n\n[Link]\n\nComplete in 30 seconds.\n\nAmazon Security",
+  "tag": "PHISHING"
+  },
+  {
+  "id": "Grok10",
+  "subject": "Spotify Premium Account Suspended",
+  "body": "Hey music lover,\n\nYour Spotify Premium account has been suspended due to unusual login activity detected at 2 AM GMT from outside the UK. All offline downloads and family plan access revoked. Click here to verify and get back to unlimited ad-free music within minutes.\n\n[Link]\n\nSpotify Trust & Safety",
+  "tag": "PHISHING"
+  },
+  {
+  "id": "Grok11",
+  "subject": "CONGRATULATIONS! You've Won a Brand New iPhone 16 Pro Max!",
+  "body": "Amazing news!\n\nYou have been randomly selected as the GRAND PRIZE winner of our November 2025 Apple giveaway! Your prize: iPhone 16 Pro Max 1TB in Desert Titanium worth £1,499. Only 3 winners chosen across the UK and you’re one! Claim your prize before it expires in 24 hours.\n\n[Link]\n\nFree shipping to Bristol included!\n\nApple Giveaway Team",
+  "tag": "PHISHING"
+  },
+  {
+  "id": "Grok12",
+  "subject": "You've Won £25,000 Cash Prize - Claim Now!",
+  "body": "LUCKY WINNER!\n\nOur national lottery system shows you’ve won £25,000 in our monthly cash draw! No purchase necessary. Thousands entered, only 5 winners - congratulations on being selected! Click below to claim your money and have it transferred to your bank within 48 hours.\n\n[Link]\n\nTax-free prize for UK residents!\n\nNational Prize Department",
+  "tag": "PHISHING"
+  },
+  {
+  "id": "Grok13",
+  "subject": "WINNER! Free Tesla Model 3 Performance Worth £60,000",
+  "body": "ELECTRIC DREAMS COME TRUE!\n\nYou’ve been selected as the winner of our Tesla November giveaway! Brand new Model 3 Performance in Ultra Red with full self-driving capability. Free delivery to Bristol, England. Only one winner per region - that’s you! Secure your prize now.\n\n[Link]\n\nTesla Giveaway 2025",
+  "tag": "PHISHING"
+  },
+  {
+  "id": "Grok14",
+  "subject": "You've Won a 7-Night All-Inclusive Maldives Holiday!",
+  "body": "Paradise awaits!\n\nCongratulations! You’re the lucky winner of our luxury travel contest: 7 nights at 5-star Maldives resort for two people, all-inclusive with flights from London! Worth £12,000. Claim before this exclusive prize is forfeited to the reserve winner.\n\n[Link]\n\nValid for 2026 travel.\n\nGlobal Travel Awards",
+  "tag": "PHISHING"
+  },
+  {
+  "id": "Grok15",
+  "subject": "£5,000 Shopping Spree at John Lewis - YOU WON!",
+  "body": "Shopping heaven!\n\nYou’ve won £5,000 to spend at John Lewis & Partners! Our system randomly selected your entry from Bristol residents. Buy anything - furniture, tech, fashion. Click to activate your gift card before it expires in 72 hours.\n\n[Link]\n\nJohn Lewis Prize Division",
+  "tag": "PHISHING"
+  },
+  {
+  "id": "Grok16",
+  "subject": "WINNER: Rolex Submariner Date Watch Worth £12,500",
+  "body": "Time to celebrate!\n\nYou are the confirmed winner of our luxury watch giveaway! Genuine Rolex Submariner Date in black ceramic. Only 10 awarded nationwide. Claim your prize and have it delivered with authenticity certificate to your Bristol address.\n\n[Link]\n\nSwiss Luxury Watches UK",
+  "tag": "PHISHING"
+  },
+  {
+  "id": "Grok17",
+  "subject": "You've Won a Year's Supply of Greggs (365 Free Items!)",
+  "body": "Breakfast sorted for 2026!\n\nCongratulations! You’ve won our Greggs giveaway - one free item every day for a whole year! Sausage rolls, yum yums, coffee - whatever you want. Redeem your digital card worth over £2,000 at any Bristol Greggs.\n\n[Link]\n\nGreggs Official Prize Team",
+  "tag": "PHISHING"
+  },
+  {
+  "id": "Grok18",
+  "subject": "£10,000 Tesco Vouchers - You Are The Winner!",
+  "body": "Grocery jackpot!\n\nYou’ve been selected as the winner of £10,000 in Tesco shopping vouchers! Stock up on everything at Tesco Bristol stores. Our biggest prize yet. Click to claim and receive your vouchers via email within hours.\n\n[Link]\n\nTesco Prize Draw 2025",
+  "tag": "PHISHING"
+  },
+  {
+  "id": "Grok19",
+  "subject": "MacBook Pro M4 Max 128GB - YOU WON!",
+  "body": "Tech upgrade alert!\n\nYou are the lucky winner of the latest Apple MacBook Pro with M4 Max chip, 128GB RAM, and 8TB storage worth £7,299! Perfect for creators. Claim now and have it shipped free to Bristol before stock runs out.\n\n[Link]\n\nApple Premium Reseller UK",
+  "tag": "PHISHING"
+  },
+  {
+  "id": "Grok20",
+  "subject": "You've Won £50,000 in Premium Bonds - NS&I",
+  "body": "OFFICIAL NS&I WINNER!\n\nYour Premium Bonds holding has won £50,000 in this month's draw! ERNIE selected your number from Bristol. Claim your tax-free prize through our secure winner portal. Thousands of winners monthly - congratulations!\n\n[Link]\n\nNational Savings & Investments",
+  "tag": "PHISHING"
+  },
+  {
+  "id": "Grok21",
+  "subject": "Exclusive Offer: Premium CBD Vape Kits - Wholesale Prices",
+  "body": "Hello,\n\nWe are UK-based CBD supplier offering premium 1000mg full-spectrum vape kits at £8/unit (RRP £34.99). Lab-tested, zero THC, 10 exciting flavours. Minimum order only 50 units. Perfect for Bristol vape shops. See full catalogue and order now.\n\n[Link]\n\nFree samples with first order over 200 units.\n\nCBD Wholesale UK",
+  "tag": "PHISHING"
+  },
+  {
+  "id": "Grok22",
+  "subject": "High-Margin Phone Accessories - 300% Profit Margins",
+  "body": "Dear retailer,\n\nWe supply fast-selling phone accessories: MagSafe wallets, 100W GaN chargers, tempered glass. Prices from £1.20, sell for £15+. Dropship available to Bristol. Over 500 shops already profiting. Request wholesale pricelist and start selling tomorrow.\n\n[Link]\n\nMobileTech Distributors",
+  "tag": "PHISHING"
+  },
+  {
+  "id": "Grok23",
+  "subject": "LED Neon Signs for Shops - Custom Designs £45+",
+  "body": "Stand out in Bristol!\n\nWe manufacture custom LED neon signs for bars, cafés, and shops. Any design, any colour, waterproof. Prices start at £45 for 60cm. Over 2000 businesses trusting us UK-wide. See gallery and get 15% first order discount.\n\n[Link]\n\nNeonCrafters UK",
+  "tag": "PHISHING"
+  },
+  {
+  "id": "Grok24",
+  "subject": "Disposable Vapes 20,000 Puffs - £3.50/unit Bulk",
+  "body": "Stock update!\n\nNew shipment arrived: 20,000 puff disposables in 25 flavours, fully TPD compliant. Only £3.50 per unit when you buy 500+. Fast selling in Bristol convenience stores. Order now before prices increase next week.\n\n[Link]\n\nVapeWholesale Direct",
+  "tag": "PHISHING"
+  },
+  {
+  "id": "Grok25",
+  "subject": "Luxury Reed Diffusers & Candles - 70% Margins",
+  "body": "Dear boutique owner,\n\nHand-poured in Yorkshire: 100ml reed diffusers and 30cl candles in 15 premium scents. Retail £24.99, cost £6.50. Beautiful packaging, perfect Christmas gifts. Free POS displays with first order over £300.\n\n[Link]\n\nArtisan Scents UK",
+  "tag": "PHISHING"
+  },
+  {
+    "id": "Gemini01",
+    "subject": "Urgent: Security Alert on Your Microsoft Account",
+    "body": "We detected an unusual sign-in attempt on your Microsoft account from a new location. For your security, we have temporarily locked your account. Please verify your identity immediately by clicking the link below. [Link]",
+    "tag": "PHISHING"
+  },
+  {
+    "id": "Gemini02",
+    "subject": "Action Required: Your Netflix Membership is on Hold",
+    "body": "Your recent payment was declined. To avoid interruption in your service, please update your billing information. Your account access is currently suspended. Log in here to update your details: [Link]",
+    "tag": "PHISHING"
+  },
+  {
+    "id": "Gemini03",
+    "subject": "Adobe Creative Cloud: Account Suspension Notice",
+    "body": "Your Adobe Creative Cloud subscription has been suspended due to an issue with your payment method. To regain access to your apps and services, you must update your payment information. Please visit your account settings: [Link]",
+    "tag": "PHISHING"
+  },
+  {
+    "id": "Gemini04",
+    "subject": "Unusual Sign-in Activity for your Office 365 Account",
+    "body": "We've detected suspicious activity on your Office 365 account that violates our terms of service. To prevent termination, you must review this activity and confirm your account ownership. Review activity here: [Link]",
+    "tag": "PHISHING"
+  },
+  {
+    "id": "Gemini05",
+    "subject": "CyberRift Online: Your Account Has Been Locked",
+    "body": "Hello Player. Our system has flagged your CyberRift Online account for using unauthorized third-party software. Access has been restricted pending a review. To appeal this decision and unlock your account, please log in here: [Link]",
+    "tag": "PHISHING"
+  },
+  {
+    "id": "Gemini06",
+    "subject": "Security Warning: Your Account Access Has Been Restricted",
+    "body": "Our records show your account may be compromised. We have restricted access to sensitive features. To restore full access, you must complete a security verification process. Please start the verification now: [Link]",
+    "tag": "PHISHING"
+  },
+  {
+    "id": "Gemini07",
+    "subject": "Google: Critical Security Alert",
+    "body": "Someone just tried to sign in to your Google Account from an unrecognized device. We blocked the attempt, but you should review your account activity immediately. Click here to review devices and secure your account: [Link]",
+    "tag": "PHISHING"
+  },
+  {
+    "id": "Gemini08",
+    "subject": "Your Amazon.com account has been locked",
+    "body": "We have locked your Amazon account and suspended all pending orders due to suspicious activity. To unlock your account, you need to verify your information with us. Please proceed to our verification center: [Link]",
+    "tag": "PHISHING"
+  },
+  {
+    "id": "Gemini09",
+    "subject": "Important: We've limited your PayPal account",
+    "body": "For safety reasons, we have limited what you can do with your PayPal account. Please log in to your account and complete the required steps to remove the limitation. Resolve this issue now by visiting: [Link]",
+    "tag": "PHISHING"
+  },
+  {
+    "id": "Gemini10",
+    "subject": "Steam Account Alert: Irregular Activity Detected",
+    "body": "We detected a login to your Steam account from a new browser or computer. If this was not you, your account may be compromised. Please click here to review this login and secure your account: [Link]",
+    "tag": "PHISHING"
+  },
+  {
+    "id": "Gemini11",
+    "subject": "Congratulations! You've Won a $1000 Gift Card!",
+    "body": "You've been selected as our weekly winner! You have won a $1000 gift card to a retailer of your choice. To claim your prize, you must confirm your details within 24 hours. Click here to claim: [Link]",
+    "tag": "PHISHING"
+  },
+  {
+    "id": "Gemini12",
+    "subject": "You're Our Lucky Winner: Claim Your New Smartphone!",
+    "body": "Your email address was selected in our random monthly drawing for a brand new, unreleased smartphone! This is not a drill. To accept your prize and arrange for delivery, please fill out the confirmation form: [Link]",
+    "tag": "PHISHING"
+  },
+  {
+    "id": "Gemini13",
+    "subject": "Final Notification: Your All-Inclusive Vacation Package is Waiting",
+    "body": "We have tried to contact you multiple times. You have won an all-inclusive 7-day vacation package for two. This is your final chance to claim it before it is forfeited. Confirm your prize: [Link]",
+    "tag": "PHISHING"
+  },
+  {
+    "id": "Gemini14",
+    "subject": "Winner Confirmation: You've Been Selected for a Mystery Box!",
+    "body": "Congratulations! As a loyal customer, you have been selected to receive a Premium Mystery Box valued at over $500. A small shipping fee may apply. See what's inside and claim your box now: [Link]",
+    "tag": "PHISHING"
+  },
+  {
+    "id": "Gemini15",
+    "subject": "Claim Your Prize: $500 Loyalty Bonus",
+    "body": "Thank you for your loyalty. As part of our customer appreciation program, we have credited a $500 bonus to your account. To transfer this bonus to your preferred account, please log in and verify your details: [Link]",
+    "tag": "PHISHING"
+  },
+  {
+    "id": "Gemini16",
+    "subject": "You Won! We are holding a Premium Tech Bundle for you.",
+    "body": "Our system has randomly selected your email address to receive a Premium Tech Bundle (Laptop, headphones, and smartwatch). This offer is valid for today only. Please confirm your shipping address to claim: [Link]",
+    "tag": "PHISHING"
+  },
+  {
+    "id": "Gemini17",
+    "subject": "Exclusive Winner: Your 1-Year Free Streaming Subscription",
+    "body": "Good news! You have won a free 1-year subscription to our Premium+ streaming service. Enjoy thousands of movies and shows ad-free. To activate your free year, simply log in or create an account here: [Link]",
+    "tag": "PHISHING"
+  },
+  {
+    "id": "Gemini18",
+    "subject": "Your entry was selected! Claim your free airline tickets now.",
+    "body": "Remember that travel survey you took? Your entry was selected! You've won two round-trip airline tickets to any domestic destination. You must book your travel within 30 days. Claim your tickets at: [Link]",
+    "tag": "PHISHING"
+  },
+  {
+    "id": "Gemini19",
+    "subject": "Notification of Prize: You've won the monthly community sweepstakes!",
+    "body": "This is to officially notify you that you are the grand prize winner of our $2,500 community sweepstakes. We are so excited for you! Please follow the link to complete the secure prize claim form: [Link]",
+    "tag": "PHISHING"
+  },
+  {
+    "id": "Gemini20",
+    "subject": "Redeem Your Prize: A $250 Shopping Spree is yours!",
+    "body": "As a token of our appreciation, we're giving you a $250 e-voucher for a shopping spree at our online store. There's no minimum purchase required. Click the link to redeem your voucher code: [Link]",
+    "tag": "PHISHING"
+  },
+  {
+    "id": "Gemini21",
+    "subject": "Boost Your Team's Productivity with InnovaSuite",
+    "body": "Hello, I noticed you're a leader in your industry and thought you might be interested in our product, InnovaSuite. It's an all-in-one project management tool that has helped companies like yours increase efficiency by 30%. [Link]",
+    "tag": "PHISHING"
+  },
+  {
+    "id": "Gemini22",
+    "subject": "Revolutionize Your IT Security with CloudSec",
+    "body": "Are you concerned about cybersecurity threats? Our product, CloudSec, offers next-generation endpoint protection and cloud monitoring. We protect your data so you can focus on your business. Let's schedule a 15-minute demo. [Link]",
+    "tag": "PHISHING"
+  },
+  {
+    "id": "Gemini23",
+    "subject": "Proposal: AI-Powered Data Analysis (DataFlow AI)",
+    "body": "Hi, my name is Alex from DataFlow AI. We provide a cutting-edge AI platform that turns raw data into actionable insights. I believe we could significantly optimize your data strategy. You can learn more about our platform here: [Link]",
+    "tag": "PHISHING"
+  },
+  {
+    "id": "Gemini24",
+    "subject": "Can SynergyHR solve your HR challenges?",
+    "body": "Managing payroll, benefits, and onboarding can be complex. SynergyHR is a simple, affordable platform that streamlines your entire HR process, saving you time and money. Discover how we can help your business grow. [Link]",
+    "tag": "PHISHING"
+  },
+  {
+    "id": "Gemini25",
+    "subject": "Partnership Opportunity: Sustainable Logistics with EcoLogistics",
+    "body": "As a vendor specializing in green supply chain solutions, we at EcoLogistics believe we can help you meet your sustainability goals. Our services reduce carbon footprint while improving delivery times. Read our case studies: [Link]",
+    "tag": "PHISHING"
+  },
+  {
+"id": "Sonar01",
+"subject": "Account Locked - Immediate Action Required",
+"body": "Dear User, we noticed multiple failed login attempts to your Netflix account. For security reasons, your account has been temporarily locked. Please click [Link] to verify your identity and unlock your account.",
+"tag": "PHISHING"
+},
+{
+"id": "Sonar02",
+"subject": "Adobe Account Access Issue",
+"body": "Hello, your Adobe account has been locked due to suspicious activity. To restore access and secure your account, please follow the instructions at [Link]. Failure to act may result in permanent suspension.",
+"tag": "PHISHING"
+},
+{
+"id": "Sonar03",
+"subject": "Microsoft Account Locked",
+"body": "We detected unusual login attempts on your Microsoft account. Your account is now locked for your protection. Visit [Link] to unlock your account and update your security settings.",
+"tag": "PHISHING"
+},
+{
+"id": "Sonar04",
+"subject": "Office 365 Account Locked",
+"body": "Your Office 365 account has been locked due to repeated failed login attempts. Please go to [Link] to verify your identity and unlock your account as soon as possible.",
+"tag": "PHISHING"
+},
+{
+"id": "Sonar05",
+"subject": "Fortnite Account Locked",
+"body": "Your Fortnite account has been locked due to suspicious activity. To regain access, please visit [Link] and follow the steps to unlock your account and secure your data.",
+"tag": "PHISHING"
+},
+{
+"id": "Sonar06",
+"subject": "Steam Account Locked",
+"body": "We detected multiple failed login attempts on your Steam account. For your safety, your account has been locked. Click [Link] to unlock your account and restore access.",
+"tag": "PHISHING"
+},
+{
+"id": "Sonar07",
+"subject": "Spotify Account Locked",
+"body": "Your Spotify account has been locked due to suspicious activity. To unlock your account and continue enjoying your music, please visit [Link] and follow the instructions.",
+"tag": "PHISHING"
+},
+{
+"id": "Sonar08",
+"subject": "Apple ID Locked",
+"body": "Your Apple ID has been locked for security reasons. Please go to [Link] to verify your identity and unlock your account. Failure to act may result in permanent loss of access.",
+"tag": "PHISHING"
+},
+{
+"id": "Sonar09",
+"subject": "Amazon Account Locked",
+"body": "Your Amazon account has been locked due to suspicious activity. To unlock your account and continue shopping, please visit [Link] and follow the instructions.",
+"tag": "PHISHING"
+},
+{
+"id": "Sonar10",
+"subject": "Discord Account Locked",
+"body": "Your Discord account has been locked due to multiple failed login attempts. Please visit [Link] to unlock your account and restore access to your server and messages.",
+"tag": "PHISHING"
+},
+{
+"id": "Sonar11",
+"subject": "Congratulations! You've Won a Prize",
+"body": "Dear Winner, you have been selected to receive a brand new iPhone 16 Pro! Click [Link] to claim your prize and provide your shipping details. Don’t miss this limited-time offer.",
+"tag": "PHISHING"
+},
+{
+"id": "Sonar12",
+"subject": "You've Won a Free Vacation",
+"body": "Congratulations! You’ve won a luxury vacation for two to the Maldives. Visit [Link] to claim your prize and book your dream getaway. Act now before it expires.",
+"tag": "PHISHING"
+},
+{
+"id": "Sonar13",
+"subject": "Win a $10,000 Gift Card",
+"body": "You’ve been chosen to receive a $10,000 gift card from Amazon! Click [Link] to claim your prize and start shopping. This offer is only valid for a limited time.",
+"tag": "PHISHING"
+},
+{
+"id": "Sonar14",
+"subject": "You've Won a Gaming Console",
+"body": "Congratulations! You’ve won a PlayStation 5. Visit [Link] to claim your prize and receive your new console. Don’t miss out on this amazing opportunity.",
+"tag": "PHISHING"
+},
+{
+"id": "Sonar15",
+"subject": "Win a Year of Netflix",
+"body": "You’ve been selected to receive a free year of Netflix Premium. Click [Link] to claim your prize and start streaming your favorite shows. Act fast!",
+"tag": "PHISHING"
+},
+{
+"id": "Sonar16",
+"subject": "You've Won a Smartwatch",
+"body": "Congratulations! You’ve won the latest Apple Watch Series 9. Visit [Link] to claim your prize and receive your new smartwatch. Don’t miss this chance.",
+"tag": "PHISHING"
+},
+{
+"id": "Sonar17",
+"subject": "Win a Laptop",
+"body": "You’ve been chosen to receive a brand new MacBook Air. Click [Link] to claim your prize and start using your new laptop. This offer is only valid for a limited time.",
+"tag": "PHISHING"
+},
+{
+"id": "Sonar18",
+"subject": "You've Won a Car",
+"body": "Congratulations! You’ve won a brand new Tesla Model 3. Visit [Link] to claim your prize and receive your new car. Don’t miss out on this amazing opportunity.",
+"tag": "PHISHING"
+},
+{
+"id": "Sonar19",
+"subject": "Win a Year of Spotify",
+"body": "You’ve been selected to receive a free year of Spotify Premium. Click [Link] to claim your prize and start streaming your favorite music. Act fast!",
+"tag": "PHISHING"
+},
+{
+"id": "Sonar20",
+"subject": "You've Won a Tablet",
+"body": "Congratulations! You’ve won the latest iPad Pro. Visit [Link] to claim your prize and receive your new tablet. Don’t miss this chance.",
+"tag": "PHISHING"
+},
+{
+"id": "Sonar21",
+"subject": "Exclusive Product Offer",
+"body": "Hello, we are a leading vendor of innovative tech products. Our new Smart Home Security System offers advanced protection for your home. Learn more and order at [Link].",
+"tag": "PHISHING"
+},
+{
+"id": "Sonar22",
+"subject": "Introducing Our New Product",
+"body": "We are excited to introduce our new Wireless Charging Pad, compatible with all major smartphone brands. Visit [Link] to learn more and place your order today.",
+"tag": "PHISHING"
+},
+{
+"id": "Sonar23",
+"subject": "New Product Launch",
+"body": "Our new Fitness Tracker is now available, featuring heart rate monitoring and GPS. Click [Link] to learn more and order your device today.",
+"tag": "PHISHING"
+},
+{
+"id": "Sonar24",
+"subject": "Special Offer on New Product",
+"body": "We are proud to offer our new Noise-Canceling Headphones at a special launch price. Visit [Link] to learn more and order yours today.",
+"tag": "PHISHING"
+},
+{
+"id": "Sonar25",
+"subject": "Introducing Our Latest Product",
+"body": "Our new Smart Water Bottle tracks your hydration and syncs with your smartphone. Click [Link] to learn more and order your bottle today.",
+"tag": "PHISHING"
+}
+]
+
